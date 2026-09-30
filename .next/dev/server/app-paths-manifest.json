@@ -1,0 +1,6 @@
+{
+  "/collections/[handle]/page": "app/collections/[handle]/page.js",
+  "/page": "app/page.js",
+  "/pages/[slug]/page": "app/pages/[slug]/page.js",
+  "/products/[handle]/page": "app/products/[handle]/page.js"
+}

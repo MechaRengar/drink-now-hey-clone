@@ -1,0 +1,19 @@
+{
+  "app": {
+    "[project]/drink-now-v2/src/app/collections/[handle]/page": [
+      "static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2"
+    ],
+    "[project]/drink-now-v2/src/app/page": [
+      "static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2"
+    ],
+    "[project]/drink-now-v2/src/app/pages/[slug]/page": [
+      "static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2"
+    ],
+    "[project]/drink-now-v2/src/app/products/[handle]/page": [
+      "static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

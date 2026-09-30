@@ -1,0 +1,11 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/blogs/[...slug]/page": "/blogs/[...slug]",
+  "/cart/page": "/cart",
+  "/collections/[handle]/page": "/collections/[handle]",
+  "/page": "/",
+  "/pages/[slug]/page": "/pages/[slug]",
+  "/policies/[slug]/page": "/policies/[slug]",
+  "/products/[handle]/page": "/products/[handle]"
+}

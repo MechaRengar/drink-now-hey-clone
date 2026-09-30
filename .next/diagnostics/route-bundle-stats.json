@@ -1,0 +1,111 @@
+[
+  {
+    "route": "/pages/[slug]",
+    "firstLoadUncompressedJsBytes": 516513,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\3zaicwa_uttxm.js",
+      ".next\\static\\chunks\\1i5pn_977c68h.js",
+      ".next\\static\\chunks\\3zk75f2ljgtyh.js",
+      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\4561u0v7ysn3r.js",
+      ".next\\static\\chunks\\0td_q_jvg2olo.js",
+      ".next\\static\\chunks\\turbopack-1wa7srl9jj1s5.js"
+    ]
+  },
+  {
+    "route": "/",
+    "firstLoadUncompressedJsBytes": 514966,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\3zaicwa_uttxm.js",
+      ".next\\static\\chunks\\1i5pn_977c68h.js",
+      ".next\\static\\chunks\\2fj967vo5qob7.js",
+      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\4561u0v7ysn3r.js",
+      ".next\\static\\chunks\\0td_q_jvg2olo.js",
+      ".next\\static\\chunks\\turbopack-1wa7srl9jj1s5.js"
+    ]
+  },
+  {
+    "route": "/products/[handle]",
+    "firstLoadUncompressedJsBytes": 510956,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\3zaicwa_uttxm.js",
+      ".next\\static\\chunks\\1i5pn_977c68h.js",
+      ".next\\static\\chunks\\3l1az4i5_3u-3.js",
+      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\4561u0v7ysn3r.js",
+      ".next\\static\\chunks\\0td_q_jvg2olo.js",
+      ".next\\static\\chunks\\turbopack-1wa7srl9jj1s5.js"
+    ]
+  },
+  {
+    "route": "/cart",
+    "firstLoadUncompressedJsBytes": 504673,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\3zaicwa_uttxm.js",
+      ".next\\static\\chunks\\1i5pn_977c68h.js",
+      ".next\\static\\chunks\\2t27yad_y7cs1.js",
+      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\4561u0v7ysn3r.js",
+      ".next\\static\\chunks\\0td_q_jvg2olo.js",
+      ".next\\static\\chunks\\turbopack-1wa7srl9jj1s5.js"
+    ]
+  },
+  {
+    "route": "/collections/[handle]",
+    "firstLoadUncompressedJsBytes": 502876,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\3zaicwa_uttxm.js",
+      ".next\\static\\chunks\\1i5pn_977c68h.js",
+      ".next\\static\\chunks\\3jeh99evzkkqp.js",
+      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\4561u0v7ysn3r.js",
+      ".next\\static\\chunks\\0td_q_jvg2olo.js",
+      ".next\\static\\chunks\\turbopack-1wa7srl9jj1s5.js"
+    ]
+  },
+  {
+    "route": "/_not-found",
+    "firstLoadUncompressedJsBytes": 495743,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\3zaicwa_uttxm.js",
+      ".next\\static\\chunks\\1i5pn_977c68h.js",
+      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\4561u0v7ysn3r.js",
+      ".next\\static\\chunks\\0td_q_jvg2olo.js",
+      ".next\\static\\chunks\\turbopack-1wa7srl9jj1s5.js"
+    ]
+  },
+  {
+    "route": "/blogs/[...slug]",
+    "firstLoadUncompressedJsBytes": 495743,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\3zaicwa_uttxm.js",
+      ".next\\static\\chunks\\1i5pn_977c68h.js",
+      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\4561u0v7ysn3r.js",
+      ".next\\static\\chunks\\0td_q_jvg2olo.js",
+      ".next\\static\\chunks\\turbopack-1wa7srl9jj1s5.js"
+    ]
+  },
+  {
+    "route": "/policies/[slug]",
+    "firstLoadUncompressedJsBytes": 495743,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\3zaicwa_uttxm.js",
+      ".next\\static\\chunks\\1i5pn_977c68h.js",
+      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\4561u0v7ysn3r.js",
+      ".next\\static\\chunks\\0td_q_jvg2olo.js",
+      ".next\\static\\chunks\\turbopack-1wa7srl9jj1s5.js"
+    ]
+  }
+]

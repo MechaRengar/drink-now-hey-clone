@@ -1,0 +1,140 @@
+import { Product } from "@/types";
+
+export const PRODUCTS: Product[] = [
+  {
+    id: "bundle-24",
+    handle: "nowhey-bundle-berry-mango-24-x-330ml",
+    title: "nowhey cans - mixed bundle 24 x 330ml",
+    price: 5940, // £59.40
+    compareAtPrice: 6600, // £66.00
+    perCanPrice: "£2.48 per can | free shipping!",
+    description: "the best of both worlds. 12 cans of crisp berry and 12 cans of juicy mango. 20g clear plant-based pea protein peptides per can, 86 calories, zero sugar and zero milkiness.",
+    featuredImage: "/images/Pair_of_Cans.png",
+    images: [
+      "/images/Pair_of_Cans.png",
+      "/images/Pair_of_Cans_Back.png",
+      "/images/Berry_Infographic_ad7d137c-d832-4cac-b849-0081b1772238.png",
+      "/images/23EC864A-8AF8-499F-937C-0E49A236E36B.jpg",
+    ],
+    flavor: "Mixed (12 Berry + 12 Mango)",
+    canCount: 24,
+    rating: 4.9,
+    reviewCount: 428,
+    proteinGrams: 20,
+    calories: 86,
+    sugarGrams: 0,
+    badge: "BEST VALUE - SAVE 10%",
+    nutritionFacts: {
+      servingSize: "330ml (1 can)",
+      protein: "20g",
+      calories: "86 kcal",
+      sugar: "0.0g",
+      carbs: "0.4g",
+      fat: "0.0g",
+    },
+    ingredients: "water, pea protein peptides, acidity regulator (citric acid), natural flavourings, preservative (potassium sorbate), sweetener (sucralose)."
+  },
+  {
+    id: "berry-12",
+    handle: "nowhey-berry-12-pack",
+    title: "nowhey cans - berry 12 x 330ml",
+    price: 3300, // £33.00
+    compareAtPrice: 3300,
+    perCanPrice: "£2.75 per can",
+    description: "crisp, tart, and wildly refreshing summer berry infusion. 20g pure bioavailable pea protein peptides with zero milkiness, zero chalk, zero sugar.",
+    featuredImage: "/images/Berry_Front.png",
+    images: [
+      "/images/Berry_Front.png",
+      "/images/Berry_Infographic_ad7d137c-d832-4cac-b849-0081b1772238.png",
+      "/images/IMG_6337-min.jpg",
+    ],
+    flavor: "Berry",
+    canCount: 12,
+    rating: 4.8,
+    reviewCount: 312,
+    proteinGrams: 20,
+    calories: 86,
+    sugarGrams: 0,
+    badge: "TOP SELLER",
+    nutritionFacts: {
+      servingSize: "330ml (1 can)",
+      protein: "20g",
+      calories: "86 kcal",
+      sugar: "0.0g",
+      carbs: "0.4g",
+      fat: "0.0g",
+    },
+    ingredients: "water, pea protein peptides, acidity regulator (citric acid), natural flavourings (berry), preservative (potassium sorbate), sweetener (sucralose)."
+  },
+  {
+    id: "mango-12",
+    handle: "nowhey-mango-12-pack",
+    title: "nowhey cans - mango 12 x 330ml",
+    price: 3300, // £33.00
+    compareAtPrice: 3300,
+    perCanPrice: "£2.75 per can",
+    description: "sun-ripened tropical mango notes packed into a light, thirst-quenching clear protein drink. 20g protein with an ultra-clean finish.",
+    featuredImage: "/images/Mango_Front.png",
+    images: [
+      "/images/Mango_Front.png",
+      "/images/Berry_Infographic_ad7d137c-d832-4cac-b849-0081b1772238.png",
+      "/images/IMG_6270.jpg",
+    ],
+    flavor: "Mango",
+    canCount: 12,
+    rating: 4.8,
+    reviewCount: 279,
+    proteinGrams: 20,
+    calories: 86,
+    sugarGrams: 0,
+    badge: "FAN FAVOURITE",
+    nutritionFacts: {
+      servingSize: "330ml (1 can)",
+      protein: "20g",
+      calories: "86 kcal",
+      sugar: "0.0g",
+      carbs: "0.4g",
+      fat: "0.0g",
+    },
+    ingredients: "water, pea protein peptides, acidity regulator (citric acid), natural flavourings (mango), preservative (potassium sorbate), sweetener (sucralose)."
+  },
+  {
+    id: "t-shirt",
+    handle: "t-shirt",
+    title: "nowhey athletic tee shirt",
+    price: 2000, // £20.00
+    compareAtPrice: 2000,
+    perCanPrice: "limited edition",
+    description: "premium heavyweight athletic fit tee with signature nowhey minimalist typography. breathable, moisture-wicking and comfortable for heavy training sessions.",
+    featuredImage: "/images/t-shirt.png",
+    images: [
+      "/images/t-shirt.png",
+      "/images/nowheyathlete.png"
+    ],
+    flavor: "Black",
+    canCount: 0,
+    rating: 5.0,
+    reviewCount: 64,
+    proteinGrams: 0,
+    calories: 0,
+    sugarGrams: 0,
+    badge: "MERCH",
+    nutritionFacts: {
+      servingSize: "1 Garment",
+      protein: "N/A",
+      calories: "N/A",
+      sugar: "N/A",
+      carbs: "N/A",
+      fat: "N/A",
+    },
+    ingredients: "100% organic cotton, 240gsm heavyweight weave."
+  }
+];
+
+export function getProductByHandle(handle: string): Product | undefined {
+  return PRODUCTS.find((p) => p.handle === handle);
+}
+
+export function getAllProducts(): Product[] {
+  return PRODUCTS;
+}

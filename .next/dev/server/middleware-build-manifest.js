@@ -1,0 +1,82 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/node_modules_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js",
+    "static/development/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_1di75ot._.js",
+    "static/chunks/node_modules_next_dist_compiled_next-devtools_index_090k2jm.js",
+    "static/chunks/node_modules_next_dist_compiled_react-dom_096_9a-._.js",
+    "static/chunks/node_modules_next_dist_compiled_react-server-dom-turbopack_164kp-6._.js",
+    "static/chunks/node_modules_next_dist_compiled_1amofcm._.js",
+    "static/chunks/node_modules_next_dist_client_0_90u2t._.js",
+    "static/chunks/node_modules_next_dist_1e8vcs8._.js",
+    "static/chunks/node_modules_@swc_helpers_cjs_1r9vbqw._.js",
+    "static/chunks/drink-now-v2_1anvha4._.js",
+    "static/chunks/turbopack-drink-now-v2_08bm286._.js"
+  ],
+  "rootMainFilesTree": {
+    "/page": [
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_1di75ot._.js",
+      "static/chunks/node_modules_next_dist_compiled_next-devtools_index_090k2jm.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_096_9a-._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-server-dom-turbopack_164kp-6._.js",
+      "static/chunks/node_modules_next_dist_compiled_1amofcm._.js",
+      "static/chunks/node_modules_next_dist_client_0_90u2t._.js",
+      "static/chunks/node_modules_next_dist_1e8vcs8._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_1r9vbqw._.js",
+      "static/chunks/drink-now-v2_1anvha4._.js",
+      "static/chunks/turbopack-drink-now-v2_08bm286._.js",
+      "static/chunks/drink-now-v2_219uq1s._.js"
+    ],
+    "/products/[handle]/page": [
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_1di75ot._.js",
+      "static/chunks/node_modules_next_dist_compiled_next-devtools_index_090k2jm.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_096_9a-._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-server-dom-turbopack_164kp-6._.js",
+      "static/chunks/node_modules_next_dist_compiled_1amofcm._.js",
+      "static/chunks/node_modules_next_dist_client_0_90u2t._.js",
+      "static/chunks/node_modules_next_dist_1e8vcs8._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_1r9vbqw._.js",
+      "static/chunks/drink-now-v2_1anvha4._.js",
+      "static/chunks/turbopack-drink-now-v2_08bm286._.js",
+      "static/chunks/drink-now-v2_1irz02a._.js"
+    ],
+    "/collections/[handle]/page": [
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_1di75ot._.js",
+      "static/chunks/node_modules_next_dist_compiled_next-devtools_index_090k2jm.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_096_9a-._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-server-dom-turbopack_164kp-6._.js",
+      "static/chunks/node_modules_next_dist_compiled_1amofcm._.js",
+      "static/chunks/node_modules_next_dist_client_0_90u2t._.js",
+      "static/chunks/node_modules_next_dist_1e8vcs8._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_1r9vbqw._.js",
+      "static/chunks/drink-now-v2_1anvha4._.js",
+      "static/chunks/turbopack-drink-now-v2_08bm286._.js",
+      "static/chunks/drink-now-v2_16d4ox2._.js"
+    ],
+    "/pages/[slug]/page": [
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_1di75ot._.js",
+      "static/chunks/node_modules_next_dist_compiled_next-devtools_index_090k2jm.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_096_9a-._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-server-dom-turbopack_164kp-6._.js",
+      "static/chunks/node_modules_next_dist_compiled_1amofcm._.js",
+      "static/chunks/node_modules_next_dist_client_0_90u2t._.js",
+      "static/chunks/node_modules_next_dist_1e8vcs8._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_1r9vbqw._.js",
+      "static/chunks/drink-now-v2_1anvha4._.js",
+      "static/chunks/turbopack-drink-now-v2_08bm286._.js",
+      "static/chunks/drink-now-v2_0oyi0su._.js"
+    ]
+  },
+  "pagesChunkGroupBootstrapParams": {},
+  "chunkLoadingGlobal": "TURBOPACK"
+};
